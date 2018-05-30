@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="es.uniovi.uo245353.museosdeastudias.mda">
+
+    <application>
+        <activity
+            android:name="es.uniovi.uo245353.museosdeastudias.mda.SettingsActivity"
+            android:label="@string/title_activity_settings"></activity>
+    </application>
+</manifest>

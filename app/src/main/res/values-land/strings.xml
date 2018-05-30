@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gotomaps">\"Pulsa para mostrar su ubicacion en el mapa\"</string>
+    <string name="about">About</string>
+    <string name="loading">Cargando Museos</string>
+</resources>
